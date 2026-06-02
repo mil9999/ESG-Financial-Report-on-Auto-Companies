@@ -1,5 +1,4 @@
-# ESG-Financial-Report-on-Auto-Companies
-ESG Report and financial reports of Automative companies in US and EU.
+
 # 📊 Financial & ESG Risk Analysis — Automotive Industry
 ### A data science case study on Tesla, Ford, and Volkswagen (2021–2024)
 **Author:** Milan Thapa
